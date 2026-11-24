@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/Auuuaa/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb-entry/rank.svg)](https://make.fun/bounty/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb)
 [![reward](https://make.fun/badge/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/Auuuaa/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb-entry/reward.svg)](https://make.fun/bounty/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb)
 
-One sentence explaining the modern internet to a traveler from 1800.
+One sentence that describes the modern internet to someone from 1800 — every letter and book ever made, carried in a blink along copper wires to a box that answers back.
 
 ## Run it
 
